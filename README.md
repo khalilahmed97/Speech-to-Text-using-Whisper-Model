@@ -21,6 +21,7 @@ Clone the repository to your local machine.
 ### Install the required dependencies.
 
 pip install -U openai-whisper or pip install git+https://github.com/openai/whisper.git 
+
 pip install googletrans==4.0.0-rc1
 
 Run the script, providing the path to the audio file you want to transcribe.
